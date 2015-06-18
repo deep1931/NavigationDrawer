@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_mark_attendance</item>
+        <item>@string/nav_item_leave_intimation</item>
+        <item>@string/nav_item_homework</item>
+        <item>@string/nav_item_fee_due</item>
+        <item>@string/nav_item_contact</item>
+    </string-array>
+
+    <string-array name="nav_drawer_icons">
+        <item>@mipmap/ic_attendance</item>
+        <item>@mipmap/ic_leave_intimation</item>
+        <item>@mipmap/ic_homework</item>
+        <item>@mipmap/ic_fee_due</item>
+        <item>@mipmap/ic_contact</item>
+    </string-array>
+
+
+
+</resources>
