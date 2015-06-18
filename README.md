@@ -1,3 +1,3 @@
 # NavigationDrawer
-This is a sample project to demonstarate how to make a navigartion drawer.Also in this project i have intoduced material design so it also can helpfull who want to impletment material design, toolbar,rounded image view control etc.
+This is a sample project to demonstrate how to make a navigation drawer.Also in this project i have added material design so it also can helpful who want to implement material design, toolbar,rounded image view control etc.
 
